@@ -1,0 +1,6 @@
+ps1 graphics
+
+no mip mapping
+affine texture mapping
+lacks z buffer ( probably bad to implement)
+no FPU, absolute values only
